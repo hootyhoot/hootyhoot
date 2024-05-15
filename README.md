@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web dev, AI and backend!**
 
-- 👨‍💻 All of my projects are available at <a href="https://mikhail.codes/" target="_blank">mikhail.codes</a>
+- 👨‍💻 All of my projects are available at [mikhail.codes](https://mikhail.codes/)
 
 - 📫 Reach me by **mail@mikhail.codes**
 
