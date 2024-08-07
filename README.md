@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
 <h3 align="center">A student @ The University of Nottingham</h3>
 
-- 🌱 I’m currently learning **Web dev, AI and backend!**
+- 🌱 I’m currently learning **Web dev and embedded programming!**
 
 - 👨‍💻 All of my projects are available at [mikhail.codes](https://mikhail.codes/)
 
