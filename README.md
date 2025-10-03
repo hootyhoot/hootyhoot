@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web dev and embedded programming!**
 
-- 👨‍💻 All of my projects are available at [mikhail.codes](https://mikhail.codes/)
+- 👨‍💻 All of my project writeups are available at [mikhail.codes](https://mikhail.codes/)
 
 - 📫 Reach me by **mail@mikhail.codes**
 
