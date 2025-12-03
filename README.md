@@ -1,10 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">A student @ The University of Nottingham</h3>
+<b><h3 align="center">A student @ The University of Nottingham</h3></b>  
 
---- 
-
-<p>🌱 I’m currently learning <b>embedded programming!</b></p>
 
 <p>👨‍💻 All of my project write-ups are available at <a href="https://mikhail.codes/">mikhail.codes</a></p>
 
